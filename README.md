@@ -3,7 +3,7 @@ Projeto de desenvolvimento back-end de uma API RESTful para gerenciamento de tar
 
 A API permite o cadastro, consulta, atualização e remoção de tarefas, seguindo os padrões REST.
 
-Autor
+
 Autor: Guilherme Faria de Paula
 
 RU: 368377
